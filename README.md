@@ -103,8 +103,3 @@ python scripts/generate_figures.py
 This project is licensed under GNU General Public License v3.0 (GPLv3). This means you can share and modify the content as long as you provide proper credit and distribute any derivative works under the same license. More details in [LICENSE](LICENSE).
 
 ---
-
-### 🔹 Notas adicionales
-
-- **Asegúrate de que la carpeta `data/` contenga todos los archivos necesarios** para reproducir los experimentos. Si los datos son demasiado grandes, puedes incluir una muestra y explicar en el `README.md` cómo obtener el conjunto completo.
-- **Si tu código usa `Jupyter Notebooks`, agrega instrucciones sobre cómo ejecutarlos** en la sección de uso.
