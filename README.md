@@ -24,6 +24,23 @@ El objetivo es identificar automáticamente distintas **condiciones de viento** 
 - `README.md` → Documentación del repositorio.
 - `requirements.txt` → Lista de paquetes necesarios para ejecutar los scripts.
 
+### 🛠️ Requerimientos
+
+Este repositorio fue desarrollado y probado en **Python 2.7**. Para ejecutar los scripts correctamente, es necesario instalar las siguientes dependencias:
+
+- `numpy==1.16.6`
+- `matplotlib==2.2.5`
+- `scikit-learn==0.20.4`
+- `pandas==0.24.2`
+
+Para instalarlas, usa el siguiente comando:
+
+```bash
+pip install -r requirements.txt
+```
+
+Si deseas ejecutar la versión en **Python 3**, consulta la versión actualizada disponible en el siguiente repositorio: [estudiovientos/saw](https://github.com/estudiovientos/saw/tree/Versi%C3%B3n-2).
+
 ### 🚀 Instalación y Uso
 
 Para utilizar este repositorio, sigue estos pasos:
@@ -44,12 +61,12 @@ pip install -r requirements.txt
 3️⃣ Ejecuta los scripts para generar las figuras del artículo:
 
 ```bash
-python scripts/generate_figures.py
+python scripts/GMM_MD_separar_3d.py
 ```
 
 ### 📜 Licencia
 
-Este proyecto está bajo la licencia GNU General Public License v3.0 (GPLv3). Esto significa que puedes compartir y modificar el contenido siempre que se dé el crédito adecuado y cualquier trabajo derivado también sea distribuido bajo la misma licencia. Más detalles en [LICENSE](LICENSE).
+Este proyecto está bajo la licencia **GNU General Public License v3.0 (GPLv3)**. Esto significa que puedes compartir y modificar el contenido siempre que se dé el crédito adecuado y cualquier trabajo derivado también sea distribuido bajo la misma licencia. Más detalles en [LICENSE](LICENSE).
 
 ---
 
@@ -75,6 +92,23 @@ The model has applications in:
 - `README.md` → Repository documentation.
 - `requirements.txt` → List of required packages to run the scripts.
 
+### 🛠️ Requirements
+
+This repository was developed and tested in **Python 2.7**. To correctly run the scripts, install the following dependencies:
+
+- `numpy==1.16.6`
+- `matplotlib==2.2.5`
+- `scikit-learn==0.20.4`
+- `pandas==0.24.2`
+
+To install them, use:
+
+```bash
+pip install -r requirements.txt
+```
+
+If you want to run the **Python 3 version**, check the updated repository: [estudiovientos/saw](https://github.com/estudiovientos/saw/tree/Versi%C3%B3n-2).
+
 ### 🚀 Installation and Usage
 
 To use this repository, follow these steps:
@@ -95,11 +129,11 @@ pip install -r requirements.txt
 3️⃣ Run the scripts to generate the paper's figures:
 
 ```bash
-python scripts/generate_figures.py
+python scripts/GMM_MD_separar_3d.py
 ```
 
 ### 📜 License
 
-This project is licensed under GNU General Public License v3.0 (GPLv3). This means you can share and modify the content as long as you provide proper credit and distribute any derivative works under the same license. More details in [LICENSE](LICENSE).
+This project is licensed under **GNU General Public License v3.0 (GPLv3)**. This means you can share and modify the content as long as you provide proper credit and distribute any derivative works under the same license. More details in [LICENSE](LICENSE).
 
 ---
