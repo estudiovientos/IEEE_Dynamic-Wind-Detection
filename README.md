@@ -49,7 +49,7 @@ python scripts/generate_figures.py
 
 ### 📜 Licencia
 
-Este proyecto está bajo la licencia **CC BY-NC-SA 4.0**. Esto significa que puedes compartir y modificar el contenido siempre que se dé el crédito adecuado, no se utilice con fines comerciales y las versiones derivadas se distribuyan bajo la misma licencia. Más detalles en [LICENSE](LICENSE).
+Este proyecto está bajo la licencia GNU General Public License v3.0 (GPLv3). Esto significa que puedes compartir y modificar el contenido siempre que se dé el crédito adecuado y cualquier trabajo derivado también sea distribuido bajo la misma licencia. Más detalles en [LICENSE](LICENSE).
 
 ---
 
@@ -100,7 +100,7 @@ python scripts/generate_figures.py
 
 ### 📜 License
 
-This project is licensed under **CC BY-NC-SA 4.0**. This means you can share and modify the content as long as you provide proper credit, do not use it for commercial purposes, and distribute any derivative works under the same license. More details in [LICENSE](LICENSE).
+This project is licensed under GNU General Public License v3.0 (GPLv3). This means you can share and modify the content as long as you provide proper credit and distribute any derivative works under the same license. More details in [LICENSE](LICENSE).
 
 ---
 
